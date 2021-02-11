@@ -3,18 +3,18 @@ Build, change, and destroy AWS infrastructure using Terraform.
 
 [/] Make sure to have AWS account setup
 
-[] Write Terraform configuration to launch a single AWS instance
+[x] Write Terraform configuration to launch a single AWS instance
 
-[] Initialize directory
+[x] Initialize directory
 
-[] Format and validate the configuration
+[x] Format and validate the configuration
 
-[] Create an AWS EC2 instance
+[x] Create an AWS EC2 instance
 
-[] Inspect newly created AWS EC2 instance
+[x] Inspect newly created AWS EC2 instance
 
-[] Change Infrastructure
+[x] Change Infrastructure
 
-[] Destroy newly created AWS EC2 instance
+[x] Destroy newly created AWS EC2 instance
 
-[] Define input variables
+[x] Define input variables
