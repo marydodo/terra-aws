@@ -1,7 +1,7 @@
 # terra-aws
 Build, change, and destroy AWS infrastructure using Terraform.
 
-[x] Make sure to have AWS account setup
+[/] Make sure to have AWS account setup
 
 [] Write Terraform configuration to launch a single AWS instance
 
