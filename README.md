@@ -7,7 +7,7 @@ Build, change, and destroy AWS infrastructure using Terraform.
 
 [x] Initialize directory
 
-x[] Format and validate the configuration
+[x] Format and validate the configuration
 
 [x] Create an AWS EC2 instance
 
